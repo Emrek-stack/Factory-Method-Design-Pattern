@@ -1,0 +1,5 @@
+E:\code\FactoryDesingPatternRealWorl\FactoryDesingPatternRealWorl\obj\Debug\FactoryDesingPatternRealWorl.csprojResolveAssemblyReference.cache
+E:\code\FactoryDesingPatternRealWorl\FactoryDesingPatternRealWorl\bin\Debug\FactoryDesingPatternRealWorl.exe
+E:\code\FactoryDesingPatternRealWorl\FactoryDesingPatternRealWorl\bin\Debug\FactoryDesingPatternRealWorl.pdb
+E:\code\FactoryDesingPatternRealWorl\FactoryDesingPatternRealWorl\obj\Debug\FactoryDesingPatternRealWorl.exe
+E:\code\FactoryDesingPatternRealWorl\FactoryDesingPatternRealWorl\obj\Debug\FactoryDesingPatternRealWorl.pdb
